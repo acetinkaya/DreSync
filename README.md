@@ -12,6 +12,10 @@
 
 ## Proje Danışmanları
 
+- [**Esen Turunç**]   
+  ORCID ID:      
+
+
 - [**Ali Çetinkaya**](https://github.com/acetinkaya)     
   ORCID ID: 0000-0003-4535-3953      
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Otonom Sistemler Teknikerliği Programı, İstanbul, Türkiye
