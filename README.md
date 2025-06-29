@@ -1,6 +1,6 @@
 # DreSync
 
-## 🚀 Style  🚀 2025 🚀
+## 🚀 Style in Sync. 🚀 2025 🚀
 
 İstanbul Gelişim Üniversitesi (İGÜ) İstanbul Gelişim Meslek Yüksekokulu (MYO) "DreSync" takımının çalışmalarının tanıtım sayfasıdır.
 
