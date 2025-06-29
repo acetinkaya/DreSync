@@ -7,4 +7,4 @@
 ## Proje Takımı 
 
 - [**Korkut Efe Altuntaş**]  
-
+  ORCID ID: 0009-
