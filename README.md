@@ -12,4 +12,5 @@
 
 ## Proje Danışmanları
 
-- [**Ali Çetinkaya**]
+- [**Ali Çetinkaya**](https://github.com/acetinkaya)     
+
