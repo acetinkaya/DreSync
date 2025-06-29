@@ -2,4 +2,4 @@
 
 ## 🚀 ..... 🚀 2025 🚀
 
-İstanbul Gelişim Üniversitesi 
+İstanbul Gelişim Üniversitesi (İGÜ) İstanbul
