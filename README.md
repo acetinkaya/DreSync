@@ -12,7 +12,7 @@
 
 ## Proje Danışmanları
 
-- [**Esen Turunç**]   
+- [**Esen Turunç**](https://github.com/esen-trnc)   
   ORCID ID:      
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye
 
