@@ -14,7 +14,7 @@
 
 - [**Esen Turunç**]   
   ORCID ID:      
-  İstanbul Gelişim Üniversitesi, 
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, 
 
 - [**Ali Çetinkaya**](https://github.com/acetinkaya)     
   ORCID ID: 0000-0003-4535-3953      
