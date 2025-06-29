@@ -6,5 +6,5 @@
 
 ## Proje Takımı 
 
-- [**Korkut Efe Altuntaşr**]  
+- [**Korkut Efe Altuntaş**]  
 
