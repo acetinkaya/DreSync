@@ -13,7 +13,7 @@
 ## Proje Danışmanları
 
 - [**Esen Turunç**](https://github.com/esen-trnc)   
-  ORCID ID: 0009-0002
+  ORCID ID: 0009-0002-5755- 
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye
 
 - [**Ali Çetinkaya**](https://github.com/acetinkaya)     
