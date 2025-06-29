@@ -12,4 +12,4 @@
 
 ## Proje Danışmanları
 
-- [**Ali 
+- [**Ali Çetinkaya**]
